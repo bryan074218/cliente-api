@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router": "^6.0.0-beta.8",
+    "react-router-dom": "^6.0.0-beta.8",
     "react-scripts": "4.0.3",
+    "react-transition-group": "^4.4.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -34,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "uuid": "^8.3.2"
   }
 }
